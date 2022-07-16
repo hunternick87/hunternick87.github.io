@@ -1,6 +1,6 @@
 ## Welcome to My Page
 
-[Otter's List](hunternick87.github.io/otter)
+[Otter's List](otter)
 
-[Markdown Help](hunternick87.github.io/markdown)
+[Markdown Help](markdown)
 
